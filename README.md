@@ -1,6 +1,8 @@
 # demo
 this is my first git repository
+<br>
 Author: Prem Mourya
+<br>
 APP DESCRIPTION BLUEPRINT:
 
 1. Project Overview: 
